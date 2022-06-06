@@ -1,12 +1,3 @@
-# flutter_project_template
+# flutter_test_project
 📖 Template for flutter projects using solid_lints, CI for tests and analysis.
-
-- Uses latest stable flutter
-- Repo name as your project name
-- Organization from your profile email address or default
-
-# Usage
-1. Press "Use this template" on the menu.
-2. Fill Github form with your new repo name and press "Create repository from template"
-3. Wait for it to be created and set up action is complete. In a couple of minutes, you'll see the flutter project created in your repo once Github Actions are complete.
-4. Clone and code.
+![Screenshot_1654536000](https://user-images.githubusercontent.com/88509809/172229561-d7d4a286-3140-43e7-b2cc-f90a5df62621.png)
