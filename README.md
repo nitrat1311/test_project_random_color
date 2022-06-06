@@ -1,3 +1,3 @@
 # flutter_test_project
 📖 Template for flutter projects using solid_lints, CI for tests and analysis.
-![Screenshot_1654536000](https://user-images.githubusercontent.com/88509809/172229561-d7d4a286-3140-43e7-b2cc-f90a5df62621.png)
+![Screenshot_1654536000](https://user-images.githubusercontent.com/88509809/172230976-bd1567b0-a570-4abb-a338-4383fbdbd3f4.png)
